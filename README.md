@@ -64,14 +64,7 @@ Commit your changes: git commit -m "Added new feature"
 Push to the branch: git push origin feature-branch
 Open a Pull Request.
 🔗 License
-This project is open-source and available under the MIT License.
-
-🎉 Happy Coding! 🚀
-yaml
-Copy
-Edit
-
----
+This project is open-source and available under the MIT License
 
 ### **💡 How to Use This**
 - Save the content as `README.md` in your project folder.
