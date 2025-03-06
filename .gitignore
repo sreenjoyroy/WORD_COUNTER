@@ -1,0 +1,22 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+Sreenjoy/
+
+# Ignore environment variables & secret keys
+.env
+
+# Ignore database files
+*.sqlite3
+
+# Ignore Django static & media files
+staticfiles/
+media/
+
+# Ignore VS Code and JetBrains IDE settings
+.vscode/
+.idea/
